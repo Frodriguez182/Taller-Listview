@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cuadrado.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_cuadrado.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cilindro.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_cilindro.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_volumen.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_volumen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cono.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_cono.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_rectangulo.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_rectangulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_triangulo.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_triangulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_esfera.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_esfera.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cubo.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_cubo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_circulo.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_circulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_resultados.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_resultados.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_opciones.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_areas.xml",
+        "source": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\src\\main\\res\\menu\\menu_areas.xml"
+    }
+]

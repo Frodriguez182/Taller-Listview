@@ -1,0 +1,7 @@
+#Sun Apr 23 00:06:12 COT 2017
+base.0=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be5c758f92069a324454d2f32b856c6186a78128
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69027cd90ef5f21ad09f3354c357c90a223ff196\\classes.dex
+base.1=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69027cd90ef5f21ad09f3354c357c90a223ff196
+file.0=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be5c758f92069a324454d2f32b856c6186a78128\\classes.dex

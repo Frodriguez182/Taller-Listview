@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fernando.rodriguez.castro.operacionesgeometricas"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Opciones"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Areas"
+            android:label="@string/title_activity_areas" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Cuadrado"
+            android:label="@string/title_activity_cuadrado" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Rectangulo"
+            android:label="@string/title_activity_rectangulo" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Triangulo"
+            android:label="@string/title_activity_triangulo" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Circulo"
+            android:label="@string/title_activity_circulo" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Resultados"
+            android:label="@string/title_activity_resultados" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Esfera"
+            android:label="@string/title_activity_esfera" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Volumen"
+            android:label="@string/title_activity_volumen" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Cilindro"
+            android:label="@string/title_activity_cilindro" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Cono"
+            android:label="@string/title_activity_cono" >
+        </activity>
+        <activity
+            android:name="fernando.rodriguez.castro.operacionesgeometricas.Cubo"
+            android:label="@string/title_activity_cubo" >
+        </activity>
+    </application>
+
+</manifest>

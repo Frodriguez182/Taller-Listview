@@ -1,29 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="rodriguez.fernando.tallerlistview.opercacionesgeometricas">
+    package="fernando.rodriguez.castro.operacionesgeometricas" >
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme">
-        <activity android:name=".Principal">
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Opciones"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Areas" />
-        <activity android:name=".Cuadrado" />
-        <activity android:name=".Rectangulo" />
-        <activity android:name=".Triangulo" />
-        <activity android:name=".Circulo" />
-        <activity android:name=".Datos" />
-        <activity android:name=".Resultados" />
-        <activity android:name=".Operacion"></activity>
+        <activity
+            android:name=".Areas"
+            android:label="@string/title_activity_areas" >
+        </activity>
+        <activity
+            android:name=".Cuadrado"
+            android:label="@string/title_activity_cuadrado" >
+        </activity>
+        <activity
+            android:name=".Rectangulo"
+            android:label="@string/title_activity_rectangulo" >
+        </activity>
+        <activity
+            android:name=".Triangulo"
+            android:label="@string/title_activity_triangulo" >
+        </activity>
+        <activity
+            android:name=".Circulo"
+            android:label="@string/title_activity_circulo" >
+        </activity>
+        <activity
+            android:name=".Resultados"
+            android:label="@string/title_activity_resultados" >
+        </activity>
+        <activity
+            android:name=".Esfera"
+            android:label="@string/title_activity_esfera" >
+        </activity>
+        <activity
+            android:name=".Volumen"
+            android:label="@string/title_activity_volumen" >
+        </activity>
+        <activity
+            android:name=".Cilindro"
+            android:label="@string/title_activity_cilindro" >
+        </activity>
+        <activity
+            android:name=".Cono"
+            android:label="@string/title_activity_cono" >
+        </activity>
+        <activity
+            android:name=".Cubo"
+            android:label="@string/title_activity_cubo" >
+        </activity>
     </application>
 
 </manifest>

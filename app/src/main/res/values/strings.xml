@@ -1,3 +1,129 @@
 <resources>
-    <string name="app_name">OpercacionesGeometricas</string>
+    <string name="app_name">Operaciones Geometricas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings de la Activity Opciones -->
+    <string name="tituloOpciones">OPCIONES</string>
+    <string name="lblArea">ÁREA</string>
+    <string name="lblVolumen">VOLUMEN</string>
+    <string name="lblOpRealizada">OPERACIONES REALIZADAS</string>
+
+    <!-- Lists de la Activity Opciones -->
+    <string-array name="lstOpciones">
+        <item>@string/lblArea</item>
+        <item>@string/lblVolumen</item>
+        <item>@string/lblOpRealizada</item>
+    </string-array>
+
+    <!-- Strings de la Activity Areas -->
+    <string name="title_activity_areas">Areas</string>
+    <string name="tituloAreas">AREAS</string>
+    <string name="lblCuadrado">CUADRADO</string>
+    <string name="lblRectangulo">RECTÁNGULO</string>
+    <string name="lblTriangulo">TRIÁNGULO</string>
+    <string name="lblCirculo">CIRCULO</string>
+
+    <!-- Lists de la Activity Areas -->
+    <string-array name="lstAreas">
+        <item>@string/lblCuadrado</item>
+        <item>@string/lblRectangulo</item>
+        <item>@string/lblTriangulo</item>
+        <item>@string/lblCirculo</item>
+    </string-array>
+
+    <!-- Strings de la Activity Volumen -->
+    <string name="title_activity_volumen">Volumen</string>
+    <string name="tituloVolumen">VOLUMEN</string>
+    <string name="lblEsfera">ESFERA</string>
+    <string name="lblCilindro">CILINDRO</string>
+    <string name="lblCono">CONO</string>
+    <string name="lblCubo">CUBO</string>
+
+    <!-- Lists de la Activity Volumen -->
+    <string-array name="lstVolumen">
+        <item>@string/lblEsfera</item>
+        <item>@string/lblCilindro</item>
+        <item>@string/lblCono</item>
+        <item>@string/lblCubo</item>
+    </string-array>
+
+    <!-- Strings de la Activity Cuadrado -->
+    <string name="title_activity_cuadrado">Cuadrado</string>
+    <string name="tituloCuadrado">CUADRADO</string>
+    <string name="lblLadoCuadrado">Digite la longintud del lado:</string>
+    <string name="txtResultado">Resultado</string>
+    <string name="txtOperacion1">Área del Cuadrado</string>
+    <string name="txtValorLado">Lado:</string>
+
+    <!-- Strings de la Activity Rectangulo -->
+    <string name="title_activity_rectangulo">Rectangulo</string>
+    <string name="tituloRectangulo">RECTANGULO</string>
+    <string name="lblBaseRectangulo">Digite base del Rectángulo</string>
+    <string name="lblAlturaRectangulo">Digite altura del Rectángulo</string>
+    <string name="txtOperacion2">Área del Rectángulo</string>
+    <string name="txtValorBaseRectangulo">Base:</string>
+    <string name="txtValorAlturaRectangulo">Altura:</string>
+
+    <!-- Strings de la Activity Triangulo -->
+    <string name="title_activity_triangulo">Triangulo</string>
+    <string name="tituloTriangulo">TRIANGULO</string>
+    <string name="lblBaseTriangulo">Digite base del Triángulo</string>
+    <string name="lblAlturaTriangulo">Digite altura del Triángulo</string>
+    <string name="txtOperacion3">Área del Triángulo</string>
+    <string name="txtValorBaseTriangulo">Base:</string>
+    <string name="txtValorAlturaTriangulo">Altura:</string>
+
+    <!-- Strings de la Activity Circulo -->
+    <string name="title_activity_circulo">Circulo</string>
+    <string name="tituloCirculo">CIRCULO</string>
+    <string name="lblRadioCirculo">Digite radio del Circulo:</string>
+    <string name="txtOperacion4">Área del Circulo</string>
+    <string name="txtValorRadioCirculo">Radio:</string>
+
+    <!-- Strings de la Activity Esfera -->
+    <string name="title_activity_esfera">Esfera</string>
+    <string name="tituloEsfera">ESFERA</string>
+    <string name="lblRadioEsfera">Digite el radio de la Esfera:</string>
+    <string name="txtOperacion5">Volumen de Esfera</string>
+    <string name="txtValorRadioEsfera">Radio:</string>
+
+    <!-- Strings de la Activity Cilindro -->
+    <string name="title_activity_cilindro">Cilindro</string>
+    <string name="tituloCilindro">CILINDRO</string>
+    <string name="lblRadioCilindro">Digite el radio del Cilindro:</string>
+    <string name="lblAlturaCilindro">Digite la altura del Cilindro:</string>
+    <string name="txtOperacion6">Volumen de Cilindro</string>
+    <string name="txtValorRadioCilindro">Radio:</string>
+    <string name="txtValorAlturaCilindro">Altura:</string>
+
+    <!-- Strings de la Activity Cono -->
+    <string name="title_activity_cono">Cono</string>
+    <string name="tituloCono">CONO</string>
+    <string name="lblRadioCono">Digite el radio del Cono:</string>
+    <string name="lblAlturaCono">Digite la altura del Cono:</string>
+    <string name="txtOperacion7">Volumen de Cono</string>
+    <string name="txtValorRadioCono">Radio:</string>
+    <string name="txtValorAlturaCono">Altura:</string>
+
+    <!-- Strings de la Activity Cubo -->
+    <string name="title_activity_cubo">Cubo</string>
+    <string name="tituloCubo">CUBO</string>
+    <string name="lblAristaCubo">Digite la arista del Cubo:</string>
+    <string name="txtOperacion8">Volumen de Cubo</string>
+    <string name="txtValorAristaCubo">Radio:</string>
+
+    <!-- Strings de la Activity Resultados -->
+    <string name="title_activity_resultados">Resultados</string>
+    <string name="tituloResultados">RESULTADOS</string>
+    <string name="lblNumero">No.</string>
+    <string name="lblOperacion">Operación</string>
+    <string name="lblDatos">Datos</string>
+    <string name="lblResultados">Resultados</string>
+
+    <!-- Strings de los botones -->
+    <string name="btnSave">Calcular</string>
+    <string name="btnClear">Borrar</string>
+
 </resources>
