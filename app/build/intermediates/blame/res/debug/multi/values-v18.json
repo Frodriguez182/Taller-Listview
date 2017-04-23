@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\ISABELLA\\.android\\build-cache\\d866b61a46eb96e3428259aa3a5aa202ede5fac7\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {

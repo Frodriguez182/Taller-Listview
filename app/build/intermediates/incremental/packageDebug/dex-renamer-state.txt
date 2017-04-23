@@ -1,7 +1,7 @@
-#Sun Apr 23 00:06:12 COT 2017
-base.0=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be5c758f92069a324454d2f32b856c6186a78128
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69027cd90ef5f21ad09f3354c357c90a223ff196\\classes.dex
-base.1=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_69027cd90ef5f21ad09f3354c357c90a223ff196
-file.0=C\:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_be5c758f92069a324454d2f32b856c6186a78128\\classes.dex
+#Sun Apr 23 01:06:04 COT 2017
+base.0=D\:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9df14cb790b66210ddb2a00c28e934d559b324d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3113f826153679b76e99a8d30ab511cbce1b5ecd\\classes.dex
+base.1=D\:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3113f826153679b76e99a8d30ab511cbce1b5ecd
+file.0=D\:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e9df14cb790b66210ddb2a00c28e934d559b324d\\classes.dex

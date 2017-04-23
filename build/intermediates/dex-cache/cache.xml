@@ -3,6 +3,24 @@
 
     <item
         is-multidex="true"
+        jar="D:\Android\Android Proyectos\taLLER\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="485230e876b6ff494cce5ff3e2f21ae339eb33a1">
+        <dex dex="D:\Android\Android Proyectos\taLLER\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3113f826153679b76e99a8d30ab511cbce1b5ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Android Proyectos\taLLER\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\Android Proyectos\taLLER\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e9df14cb790b66210ddb2a00c28e934d559b324d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"

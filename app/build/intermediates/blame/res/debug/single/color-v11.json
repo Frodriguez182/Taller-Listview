@@ -1,7 +1,15 @@
 [
     {
+        "merged": "D:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\ISABELLA\\.android\\build-cache\\d866b61a46eb96e3428259aa3a5aa202ede5fac7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\ISABELLA\\.android\\build-cache\\d866b61a46eb96e3428259aa3a5aa202ede5fac7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\Android Proyectos\\taLLER\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\ISABELLA\\.android\\build-cache\\d866b61a46eb96e3428259aa3a5aa202ede5fac7\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\ISABELLA\\Desktop\\OperacionesGeometricas\\OperacionesGeometricas\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",

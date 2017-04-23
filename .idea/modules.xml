@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OperacionesGeometricas.iml" filepath="$PROJECT_DIR$/OperacionesGeometricas.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taLLER.iml" filepath="$PROJECT_DIR$/taLLER.iml" />
     </modules>
   </component>
 </project>

@@ -1,119 +1,119 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:2:1-65:12
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:2:1-65:12
 	package
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:3:5-63
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:3:5-63
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:5:5-63:19
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:5:5-63:19
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ISABELLA\.android\build-cache\d866b61a46eb96e3428259aa3a5aa202ede5fac7\output\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ISABELLA\.android\build-cache\d347d7f3c98c171c0ec5e5817087b6a6249ce3eb\output\AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:9:9-40
 activity#fernando.rodriguez.castro.operacionesgeometricas.Opciones
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:10:9-18:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:11:13-37
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:11:13-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:16:27-74
 activity#fernando.rodriguez.castro.operacionesgeometricas.Areas
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:19:9-22:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:19:9-22:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:21:13-57
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:21:13-57
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:20:13-34
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:20:13-34
 activity#fernando.rodriguez.castro.operacionesgeometricas.Cuadrado
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:23:9-26:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:23:9-26:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:25:13-60
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:25:13-60
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:24:13-37
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:24:13-37
 activity#fernando.rodriguez.castro.operacionesgeometricas.Rectangulo
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:27:9-30:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:27:9-30:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:29:13-62
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:29:13-62
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:28:13-39
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:28:13-39
 activity#fernando.rodriguez.castro.operacionesgeometricas.Triangulo
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:31:9-34:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:31:9-34:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:33:13-61
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:33:13-61
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:32:13-38
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:32:13-38
 activity#fernando.rodriguez.castro.operacionesgeometricas.Circulo
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:35:9-38:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:35:9-38:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:37:13-59
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:37:13-59
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:36:13-36
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:36:13-36
 activity#fernando.rodriguez.castro.operacionesgeometricas.Resultados
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:39:9-42:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:39:9-42:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:41:13-62
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:41:13-62
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:40:13-39
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:40:13-39
 activity#fernando.rodriguez.castro.operacionesgeometricas.Esfera
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:43:9-46:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:43:9-46:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:45:13-58
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:45:13-58
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:44:13-35
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:44:13-35
 activity#fernando.rodriguez.castro.operacionesgeometricas.Volumen
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:47:9-50:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:47:9-50:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:49:13-59
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:49:13-59
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:48:13-36
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:48:13-36
 activity#fernando.rodriguez.castro.operacionesgeometricas.Cilindro
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:51:9-54:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:51:9-54:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:53:13-60
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:53:13-60
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:52:13-37
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:52:13-37
 activity#fernando.rodriguez.castro.operacionesgeometricas.Cono
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:55:9-58:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:55:9-58:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:57:13-56
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:57:13-56
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:56:13-33
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:56:13-33
 activity#fernando.rodriguez.castro.operacionesgeometricas.Cubo
-ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:59:9-62:20
+ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:59:9-62:20
 	android:label
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:61:13-56
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:61:13-56
 	android:name
-		ADDED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml:60:13-33
+		ADDED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml:60:13-33
 uses-sdk
-INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ISABELLA\.android\build-cache\d866b61a46eb96e3428259aa3a5aa202ede5fac7\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:22.2.1] C:\Users\ISABELLA\.android\build-cache\d347d7f3c98c171c0ec5e5817087b6a6249ce3eb\output\AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ISABELLA\Desktop\OperacionesGeometricas\OperacionesGeometricas\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Android Proyectos\taLLER\app\src\main\AndroidManifest.xml
